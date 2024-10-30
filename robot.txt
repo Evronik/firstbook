@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: firstbook.evimag.ru
+Sitemap: http://firstbook.evimag.ru/sitemap.xml
